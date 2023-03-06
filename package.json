@@ -1,0 +1,23 @@
+{
+  "name": "ajs-use-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saff84/ajs-use-project.git"
+  },
+  "author": "saff84",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saff84/ajs-use-project/issues"
+  },
+  "homepage": "https://github.com/saff84/ajs-use-project#readme",
+  "dependencies": {
+    "@saff84/ajs": "^1.0.0"
+  }
+}
